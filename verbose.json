@@ -1,0 +1,1648 @@
+[
+  {
+    "code": "AED",
+    "digits": 2,
+    "currency": "UAE Dirham",
+    "countries": [
+      "United Arab Emirates (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "AFN",
+    "digits": 2,
+    "currency": "Afghani",
+    "countries": [
+      "Afghanistan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ALL",
+    "digits": 2,
+    "currency": "Lek",
+    "countries": [
+      "Albania"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "AMD",
+    "digits": 2,
+    "currency": "Armenian Dram",
+    "countries": [
+      "Armenia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ANG",
+    "digits": 2,
+    "currency": "Netherlands Antillean Guilder",
+    "countries": [
+      "Curaçao",
+      "Sint Maarten (Dutch Part)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "AOA",
+    "digits": 2,
+    "currency": "Kwanza",
+    "countries": [
+      "Angola"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ARS",
+    "digits": 2,
+    "currency": "Argentine Peso",
+    "countries": [
+      "Argentina"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "AUD",
+    "digits": 2,
+    "currency": "Australian Dollar",
+    "countries": [
+      "Australia",
+      "Christmas Island",
+      "Cocos (Keeling) Islands (The)",
+      "Heard Island and Mcdonald Islands",
+      "Kiribati",
+      "Nauru",
+      "Norfolk Island",
+      "Tuvalu"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "AWG",
+    "digits": 2,
+    "currency": "Aruban Florin",
+    "countries": [
+      "Aruba"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "AZN",
+    "digits": 2,
+    "currency": "Azerbaijan Manat",
+    "countries": [
+      "Azerbaijan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BAM",
+    "digits": 2,
+    "currency": "Convertible Mark",
+    "countries": [
+      "Bosnia and Herzegovina"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BBD",
+    "digits": 2,
+    "currency": "Barbados Dollar",
+    "countries": [
+      "Barbados"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BDT",
+    "digits": 2,
+    "currency": "Taka",
+    "countries": [
+      "Bangladesh"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BGN",
+    "digits": 2,
+    "currency": "Bulgarian Lev",
+    "countries": [
+      "Bulgaria"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BHD",
+    "digits": 3,
+    "currency": "Bahraini Dinar",
+    "countries": [
+      "Bahrain"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BIF",
+    "digits": 0,
+    "currency": "Burundi Franc",
+    "countries": [
+      "Burundi"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BMD",
+    "digits": 2,
+    "currency": "Bermudian Dollar",
+    "countries": [
+      "Bermuda"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BND",
+    "digits": 2,
+    "currency": "Brunei Dollar",
+    "countries": [
+      "Brunei Darussalam"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BOB",
+    "digits": 2,
+    "currency": "Boliviano",
+    "countries": [
+      "Bolivia (Plurinational State Of)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BRL",
+    "digits": 2,
+    "currency": "Brazilian Real",
+    "countries": [
+      "Brazil"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "BSD",
+    "digits": 2,
+    "currency": "Bahamian Dollar",
+    "countries": [
+      "Bahamas (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BWP",
+    "digits": 2,
+    "currency": "Pula",
+    "countries": [
+      "Botswana"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BYN",
+    "digits": 2,
+    "currency": "Belarusian Ruble",
+    "countries": [
+      "Belarus"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "BZD",
+    "digits": 2,
+    "currency": "Belize Dollar",
+    "countries": [
+      "Belize"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "CAD",
+    "digits": 2,
+    "currency": "Canadian Dollar",
+    "countries": [
+      "Canada"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "CDF",
+    "digits": 2,
+    "currency": "Congolese Franc",
+    "countries": [
+      "Congo (The Democratic Republic of The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "CHF",
+    "digits": 2,
+    "currency": "Swiss Franc",
+    "countries": [
+      "Liechtenstein",
+      "Switzerland"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "CLP",
+    "digits": 0,
+    "currency": "Chilean Peso",
+    "countries": [
+      "Chile"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "CNY",
+    "digits": 2,
+    "currency": "Yuan Renminbi",
+    "countries": [
+      "China"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "COP",
+    "digits": 2,
+    "currency": "Colombian Peso",
+    "countries": [
+      "Colombia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "CRC",
+    "digits": 2,
+    "currency": "Costa Rican Colon",
+    "countries": [
+      "Costa Rica"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "CVE",
+    "digits": 2,
+    "currency": "Cabo Verde Escudo",
+    "countries": [
+      "Cabo Verde"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "CZK",
+    "digits": 2,
+    "currency": "Czech Koruna",
+    "countries": [
+      "Czechia"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "DJF",
+    "digits": 0,
+    "currency": "Djibouti Franc",
+    "countries": [
+      "Djibouti"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "DKK",
+    "digits": 2,
+    "currency": "Danish Krone",
+    "countries": [
+      "Denmark",
+      "Faroe Islands (The)",
+      "Greenland"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "DOP",
+    "digits": 2,
+    "currency": "Dominican Peso",
+    "countries": [
+      "Dominican Republic (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "DZD",
+    "digits": 2,
+    "currency": "Algerian Dinar",
+    "countries": [
+      "Algeria"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "EGP",
+    "digits": 2,
+    "currency": "Egyptian Pound",
+    "countries": [
+      "Egypt"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ETB",
+    "digits": 2,
+    "currency": "Ethiopian Birr",
+    "countries": [
+      "Ethiopia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "EUR",
+    "digits": 2,
+    "currency": "Euro",
+    "countries": [
+      "Åland Islands",
+      "Andorra",
+      "Austria",
+      "Belgium",
+      "Cyprus",
+      "Estonia",
+      "European Union",
+      "Finland",
+      "France",
+      "French Guiana",
+      "French Southern Territories (The)",
+      "Germany",
+      "Greece",
+      "Guadeloupe",
+      "Holy See (The)",
+      "Ireland",
+      "Italy",
+      "Latvia",
+      "Lithuania",
+      "Luxembourg",
+      "Malta",
+      "Martinique",
+      "Mayotte",
+      "Monaco",
+      "Montenegro",
+      "Netherlands (The)",
+      "Portugal",
+      "Réunion",
+      "Saint Barthélemy",
+      "Saint Martin (French Part)",
+      "Saint Pierre and Miquelon",
+      "San Marino",
+      "Slovakia",
+      "Slovenia",
+      "Spain"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "FJD",
+    "digits": 2,
+    "currency": "Fiji Dollar",
+    "countries": [
+      "Fiji"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "FKP",
+    "digits": 2,
+    "currency": "Falkland Islands Pound",
+    "countries": [
+      "Falkland Islands (The) [Malvinas]"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "GBP",
+    "digits": 2,
+    "currency": "Pound Sterling",
+    "countries": [
+      "Guernsey",
+      "Isle of Man",
+      "Jersey",
+      "United Kingdom of Great Britain and Northern Ireland (The)"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "GEL",
+    "digits": 2,
+    "currency": "Lari",
+    "countries": [
+      "Georgia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "GIP",
+    "digits": 2,
+    "currency": "Gibraltar Pound",
+    "countries": [
+      "Gibraltar"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "GMD",
+    "digits": 2,
+    "currency": "Dalasi",
+    "countries": [
+      "Gambia (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "GNF",
+    "digits": 0,
+    "currency": "Guinean Franc",
+    "countries": [
+      "Guinea"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "GTQ",
+    "digits": 2,
+    "currency": "Quetzal",
+    "countries": [
+      "Guatemala"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "GYD",
+    "digits": 2,
+    "currency": "Guyana Dollar",
+    "countries": [
+      "Guyana"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "HKD",
+    "digits": 2,
+    "currency": "Hong Kong Dollar",
+    "countries": [
+      "Hong Kong"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "HNL",
+    "digits": 2,
+    "currency": "Lempira",
+    "countries": [
+      "Honduras"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "HTG",
+    "digits": 2,
+    "currency": "Gourde",
+    "countries": [
+      "Haiti"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "HUF",
+    "digits": 2,
+    "currency": "Forint",
+    "countries": [
+      "Hungary"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "IDR",
+    "digits": 2,
+    "currency": "Rupiah",
+    "countries": [
+      "Indonesia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ILS",
+    "digits": 2,
+    "currency": "New Israeli Sheqel",
+    "countries": [
+      "Israel"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "INR",
+    "digits": 2,
+    "currency": "Indian Rupee",
+    "countries": [
+      "Bhutan",
+      "India"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ISK",
+    "digits": 0,
+    "currency": "Iceland Krona",
+    "countries": [
+      "Iceland"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "JMD",
+    "digits": 2,
+    "currency": "Jamaican Dollar",
+    "countries": [
+      "Jamaica"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "JOD",
+    "digits": 3,
+    "currency": "Jordanian Dinar",
+    "countries": [
+      "Jordan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "JPY",
+    "digits": 0,
+    "currency": "Yen",
+    "countries": [
+      "Japan"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "KES",
+    "digits": 2,
+    "currency": "Kenyan Shilling",
+    "countries": [
+      "Kenya"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "KGS",
+    "digits": 2,
+    "currency": "Som",
+    "countries": [
+      "Kyrgyzstan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "KHR",
+    "digits": 2,
+    "currency": "Riel",
+    "countries": [
+      "Cambodia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "KMF",
+    "digits": 0,
+    "currency": "Comorian Franc ",
+    "countries": [
+      "Comoros (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "KRW",
+    "digits": 0,
+    "currency": "Won",
+    "countries": [
+      "Korea (The Republic Of)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "KWD",
+    "digits": 3,
+    "currency": "Kuwaiti Dinar",
+    "countries": [
+      "Kuwait"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "KYD",
+    "digits": 2,
+    "currency": "Cayman Islands Dollar",
+    "countries": [
+      "Cayman Islands (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "KZT",
+    "digits": 2,
+    "currency": "Tenge",
+    "countries": [
+      "Kazakhstan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "LAK",
+    "digits": 2,
+    "currency": "Lao Kip",
+    "countries": [
+      "Lao People’s Democratic Republic (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "LBP",
+    "digits": 2,
+    "currency": "Lebanese Pound",
+    "countries": [
+      "Lebanon"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "LKR",
+    "digits": 2,
+    "currency": "Sri Lanka Rupee",
+    "countries": [
+      "Sri Lanka"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "LRD",
+    "digits": 2,
+    "currency": "Liberian Dollar",
+    "countries": [
+      "Liberia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "LSL",
+    "digits": 2,
+    "currency": "Loti",
+    "countries": [
+      "Lesotho"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MAD",
+    "digits": 2,
+    "currency": "Moroccan Dirham",
+    "countries": [
+      "Morocco",
+      "Western Sahara"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MDL",
+    "digits": 2,
+    "currency": "Moldovan Leu",
+    "countries": [
+      "Moldova (The Republic Of)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MGA",
+    "digits": 2,
+    "currency": "Malagasy Ariary",
+    "countries": [
+      "Madagascar"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MKD",
+    "digits": 2,
+    "currency": "Denar",
+    "countries": [
+      "Macedonia (The Former Yugoslav Republic Of)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MMK",
+    "digits": 2,
+    "currency": "Kyat",
+    "countries": [
+      "Myanmar"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MNT",
+    "digits": 2,
+    "currency": "Tugrik",
+    "countries": [
+      "Mongolia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MOP",
+    "digits": 2,
+    "currency": "Pataca",
+    "countries": [
+      "Macao"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MRO",
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MUR",
+    "digits": 2,
+    "currency": "Mauritius Rupee",
+    "countries": [
+      "Mauritius"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MVR",
+    "digits": 2,
+    "currency": "Rufiyaa",
+    "countries": [
+      "Maldives"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MWK",
+    "digits": 2,
+    "currency": "Malawi Kwacha",
+    "countries": [
+      "Malawi"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "MXN",
+    "digits": 2,
+    "currency": "Mexican Peso",
+    "countries": [
+      "Mexico"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "MYR",
+    "digits": 2,
+    "currency": "Malaysian Ringgit",
+    "countries": [
+      "Malaysia"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "MZN",
+    "digits": 2,
+    "currency": "Mozambique Metical",
+    "countries": [
+      "Mozambique"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "NAD",
+    "digits": 2,
+    "currency": "Namibia Dollar",
+    "countries": [
+      "Namibia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "NGN",
+    "digits": 2,
+    "currency": "Naira",
+    "countries": [
+      "Nigeria"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "NIO",
+    "digits": 2,
+    "currency": "Cordoba Oro",
+    "countries": [
+      "Nicaragua"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "NOK",
+    "digits": 2,
+    "currency": "Norwegian Krone",
+    "countries": [
+      "Bouvet Island",
+      "Norway",
+      "Svalbard and Jan Mayen"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "NPR",
+    "digits": 2,
+    "currency": "Nepalese Rupee",
+    "countries": [
+      "Nepal"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "NZD",
+    "digits": 2,
+    "currency": "New Zealand Dollar",
+    "countries": [
+      "Cook Islands (The)",
+      "New Zealand",
+      "Niue",
+      "Pitcairn",
+      "Tokelau"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "OMR",
+    "digits": 3,
+    "currency": "Rial Omani",
+    "countries": [
+      "Oman"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "PAB",
+    "digits": 2,
+    "currency": "Balboa",
+    "countries": [
+      "Panama"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "PEN",
+    "digits": 2,
+    "currency": "Sol",
+    "countries": [
+      "Peru"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "PGK",
+    "digits": 2,
+    "currency": "Kina",
+    "countries": [
+      "Papua New Guinea"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "PHP",
+    "digits": 2,
+    "currency": "Philippine Peso",
+    "countries": [
+      "Philippines (The)"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "PKR",
+    "digits": 2,
+    "currency": "Pakistan Rupee",
+    "countries": [
+      "Pakistan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "PLN",
+    "digits": 2,
+    "currency": "Zloty",
+    "countries": [
+      "Poland"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "PYG",
+    "digits": 0,
+    "currency": "Guarani",
+    "countries": [
+      "Paraguay"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "QAR",
+    "digits": 2,
+    "currency": "Qatari Rial",
+    "countries": [
+      "Qatar"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "RON",
+    "digits": 2,
+    "currency": "Romanian Leu",
+    "countries": [
+      "Romania"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "RSD",
+    "digits": 2,
+    "currency": "Serbian Dinar",
+    "countries": [
+      "Serbia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "RUB",
+    "digits": 2,
+    "currency": "Russian Ruble",
+    "countries": [
+      "Russian Federation (The)"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "RWF",
+    "digits": 0,
+    "currency": "Rwanda Franc",
+    "countries": [
+      "Rwanda"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SAR",
+    "digits": 2,
+    "currency": "Saudi Riyal",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SBD",
+    "digits": 2,
+    "currency": "Solomon Islands Dollar",
+    "countries": [
+      "Solomon Islands"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SCR",
+    "digits": 2,
+    "currency": "Seychelles Rupee",
+    "countries": [
+      "Seychelles"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SEK",
+    "digits": 2,
+    "currency": "Swedish Krona",
+    "countries": [
+      "Sweden"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "SGD",
+    "digits": 2,
+    "currency": "Singapore Dollar",
+    "countries": [
+      "Singapore"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "SHP",
+    "digits": 2,
+    "currency": "Saint Helena Pound",
+    "countries": [
+      "Saint Helena, Ascension and Tristan Da Cunha"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SLE",
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SOS",
+    "digits": 2,
+    "currency": "Somali Shilling",
+    "countries": [
+      "Somalia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SRD",
+    "digits": 2,
+    "currency": "Surinam Dollar",
+    "countries": [
+      "Suriname"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "STD",
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "SZL",
+    "digits": 2,
+    "currency": "Lilangeni",
+    "countries": [
+      "Eswatini"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "THB",
+    "digits": 2,
+    "currency": "Baht",
+    "countries": [
+      "Thailand"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "TJS",
+    "digits": 2,
+    "currency": "Somoni",
+    "countries": [
+      "Tajikistan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "TND",
+    "digits": 3,
+    "currency": "Tunisian Dinar",
+    "countries": [
+      "Tunisia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "TOP",
+    "digits": 2,
+    "currency": "Pa’anga",
+    "countries": [
+      "Tonga"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "TRY",
+    "digits": 2,
+    "currency": "Turkish Lira",
+    "countries": [
+      "Turkey"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "TTD",
+    "digits": 2,
+    "currency": "Trinidad and Tobago Dollar",
+    "countries": [
+      "Trinidad and Tobago"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "TWD",
+    "digits": 2,
+    "currency": "New Taiwan Dollar",
+    "countries": [
+      "Taiwan (Province of China)"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "TZS",
+    "digits": 2,
+    "currency": "Tanzanian Shilling",
+    "countries": [
+      "Tanzania, United Republic Of"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "UAH",
+    "digits": 2,
+    "currency": "Hryvnia",
+    "countries": [
+      "Ukraine"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "UGX",
+    "digits": 0,
+    "currency": "Uganda Shilling",
+    "countries": [
+      "Uganda"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "USD",
+    "digits": 2,
+    "currency": "US Dollar",
+    "countries": [
+      "American Samoa",
+      "Bonaire, Sint Eustatius and Saba",
+      "British Indian Ocean Territory (The)",
+      "Ecuador",
+      "El Salvador",
+      "Guam",
+      "Haiti",
+      "Marshall Islands (The)",
+      "Micronesia (Federated States Of)",
+      "Northern Mariana Islands (The)",
+      "Palau",
+      "Panama",
+      "Puerto Rico",
+      "Timor-Leste",
+      "Turks and Caicos Islands (The)",
+      "United States Minor Outlying Islands (The)",
+      "United States of America (The)",
+      "Virgin Islands (British)",
+      "Virgin Islands (U.S.)"
+    ],
+    "provider": [
+      "paypal",
+      "stripe"
+    ]
+  },
+  {
+    "code": "UYU",
+    "digits": 2,
+    "currency": "Peso Uruguayo",
+    "countries": [
+      "Uruguay"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "UZS",
+    "digits": 2,
+    "currency": "Uzbekistan Sum",
+    "countries": [
+      "Uzbekistan"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "VND",
+    "digits": 0,
+    "currency": "Dong",
+    "countries": [
+      "Viet Nam"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "VUV",
+    "digits": 0,
+    "currency": "Vatu",
+    "countries": [
+      "Vanuatu"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "WST",
+    "digits": 2,
+    "currency": "Tala",
+    "countries": [
+      "Samoa"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "XAF",
+    "digits": 0,
+    "currency": "CFA Franc BEAC",
+    "countries": [
+      "Cameroon",
+      "Central African Republic (The)",
+      "Chad",
+      "Congo (The)",
+      "Equatorial Guinea",
+      "Gabon"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "XCD",
+    "digits": 2,
+    "currency": "East Caribbean Dollar",
+    "countries": [
+      "Anguilla",
+      "Antigua and Barbuda",
+      "Dominica",
+      "Grenada",
+      "Montserrat",
+      "Saint Kitts and Nevis",
+      "Saint Lucia",
+      "Saint Vincent and the Grenadines"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "XOF",
+    "digits": 0,
+    "currency": "CFA Franc BCEAO",
+    "countries": [
+      "Benin",
+      "Burkina Faso",
+      "Côte d'Ivoire",
+      "Guinea-Bissau",
+      "Mali",
+      "Niger (The)",
+      "Senegal",
+      "Togo"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "XPF",
+    "digits": 0,
+    "currency": "CFP Franc",
+    "countries": [
+      "French Polynesia",
+      "New Caledonia",
+      "Wallis and Futuna"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "YER",
+    "digits": 2,
+    "currency": "Yemeni Rial",
+    "countries": [
+      "Yemen"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ZAR",
+    "digits": 2,
+    "currency": "Rand",
+    "countries": [
+      "Lesotho",
+      "Namibia",
+      "South Africa"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  },
+  {
+    "code": "ZMW",
+    "digits": 2,
+    "currency": "Zambian Kwacha",
+    "countries": [
+      "Zambia"
+    ],
+    "provider": [
+      "stripe"
+    ]
+  }
+]
