@@ -11,7 +11,7 @@ if (process.argv.includes("--markdown")) {
   console.log(`CURRENCY | DIGITS | PAYPAL / STRIPE\n----|:----:|:----:`);
   for (const c of currencies) {
     const p = c.provider ?? [];
-    console.log(`[${c.code}] ${c.currency ?? "?"} | ${c.digits ?? "?"} | ${trueFalse(p.includes(providers.PAYPAL))} / ${trueFalse(p.includes(providers.STRIPE))}`);
+    console.log(`[\`${c.code}\`] ${c.currency ?? "?"} | ${c.digits ?? "?"} | ${trueFalse(p.includes(providers.PAYPAL))} / ${trueFalse(p.includes(providers.STRIPE))}`);
   }
 } else {
   console.log(JSON.stringify(currencies, null, 2));
