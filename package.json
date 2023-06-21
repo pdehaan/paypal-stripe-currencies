@@ -6,15 +6,23 @@
   "bin": {
     "paypal-stripe-currencies": "index.js"
   },
+  "bugs": {
+    "url": "https://github.com/pdehaan/paypal-stripe-currencies/issues"
+  },
   "dependencies": {
     "@11ty/eleventy-fetch": "^4.0.0",
     "cheerio": "^1.0.0-rc.12",
     "currency-codes": "^2.1.0"
   },
   "devDependencies": {},
+  "homepage": "https://github.com/pdehaan/paypal-stripe-currencies#readme",
   "keywords": [],
   "license": "MPL-2.0",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/paypal-stripe-currencies.git"
+  },
   "scripts": {
     "readme": "node index --markdown --both > README.md",
     "start": "node index",
